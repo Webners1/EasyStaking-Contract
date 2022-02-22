@@ -1,0 +1,35 @@
+{
+  "name": "react-box",
+  "version": "1.0.0",
+  "description": "StakeSmartContract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/cli": "2.8.2",
+    "@openzeppelin/contracts-ethereum-package": "2.5.0",
+    "@poanet/solidity-flattener": "^3.0.2",
+    "dotenv": "8.2.0",
+    "ethers": "4.0.47",
+    "ethlint": "1.2.5",
+    "ganache-cli": "6.9.1",
+    "solidity-coverage": "0.7.5",
+    "truffle": "5.1.26",
+    "truffle-hdwallet-provider": "1.0.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truffle-box/react-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truffle-box/react-box/issues"
+  },
+  "homepage": "https://github.com/truffle-box/react-box#readme"
+}
